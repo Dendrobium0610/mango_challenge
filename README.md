@@ -16,10 +16,10 @@
 - Therefore, loss function here we choose BinaryCrossEntropy. <br>
 - Fine Grained Classification : Finding more detailed feature on mango. <br>
 ## Training Detail
-- model : SKNet26 (Selective Kernel Network ) <br>
+- model : SKNet26 [Selective Kernel Network ]<https://arxiv.org/abs/1903.06586?> <br>
 - batch size : <br>
 - Epcohs : <br>
-- dataAugment : Online, RandAugment (Unsupervised Data Augmentation) <br>
+- dataAugment : Online, RandAugment [Unsupervised Data Augmentation]<https://arxiv.org/abs/1904.12848> <br>
 - loss : BinaryCrossEntropy <br>
 ## Results
 
