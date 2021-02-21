@@ -17,8 +17,8 @@
 - Fine Grained Classification : Finding more detailed feature on mango. <br>
 ## Training Detail
 - model : SKNet26 <br>
-- batch size : <br>
-- Epcohs : <br>
+- batch size : 64<br>
+- Epcohs : 100<br>
 - dataAugment : Online, RandAugment <br>
 - loss : BinaryCrossEntropy <br>
 ## Results
