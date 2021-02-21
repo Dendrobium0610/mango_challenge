@@ -17,6 +17,10 @@
 - Fine Grained Classification : Finding more detailed feature on mango. <br>
 ## Training Detail
 - model : SKNet26 (Selective Kernel Network ) <br>
+- batch size : <br>
+- Epcohs : <br>
+- dataAugment : Online, RandAugment (Unsupervised Data Augmentation) <br>
+- loss : BinaryCrossEntropy <br>
 ## Results
 
 ## Ranking
