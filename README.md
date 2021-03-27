@@ -3,7 +3,7 @@
 ##  Environment
 - PyTorch 1.5.1  & torchvision 0.5.1 <br>
 - CUDA 10.2 <br>
-- Python 3.6. <br>
+- Python 3.6.8 <br>
 - GPU : Nvidia Tesla V100 <br>
 
 ## Data Description & Statistics
